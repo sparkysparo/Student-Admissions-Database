@@ -41,5 +41,5 @@ The schema diagram below represents the relationships between the tables.
 ## Installation and Usage
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/student-admissions-database.git
+git clone https://github.com/sparkysparo/student-admissions-database.git
 cd student-admissions-database
